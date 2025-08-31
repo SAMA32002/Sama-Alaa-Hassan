@@ -41,9 +41,64 @@
 
 <h2 align="left">📌 Featured Projects:</h2>
 
-- 🔹 **Home Maintenance Service Platform** – ASP.NET Core + EF Core + Bootstrap + Azure  
-- 🔹 **CRUD App** – ASP.NET Core MVC with Repository Pattern  
-- 🔹 **Adventure Game** – Python project (Udacity)  
+### 🔹 Home Maintenance Service Platform
+**Objective:** A web app connecting crafters with clients seeking specialized handmade/customized services.  
+- Crafters & Clients can create accounts, request/post services.  
+- Secure payments via **Stripe**.  
+- Admin panel for managing users/services.  
+**Tools:**  
+- Frontend: .NET Core MVC + Bootstrap  
+- Admin Panel: AdminLTE + .NET Web API  
+- Backend: .NET Identity (Custom Roles), Stripe, N-Tier, DI  
+
+---
+
+### 🔹 Integrated Asset Management System - API
+**Objective:** Asset lifecycle management system with clean architecture.  
+- Add/Edit/Delete/Estimate assets  
+- Track asset transfers  
+- Optimized DB design for consistency & performance  
+**Tools:** .NET Core 8, SQL Server, EF Core, Clean Architecture  
+
+---
+
+### 🔹 Library Management System - API
+**Objective:** System to manage library books, users, and borrowings.  
+**Tools:** .NET Core 8, SQL Server, EF Core  
+
+---
+
+### 🔹 HirePlus *(In Progress)*  
+**Objective:** AI-driven job platform with:  
+- Job application management  
+- Tailored job suggestions  
+- AI interview practice  
+- Job market data visualization  
+**Tools:** .NET Core 8, SQL Server, EF Core  
+
+---
+
+### 🔹 SignTalk *(Graduation Project)*  
+**Objective:** Mobile app to translate sign language to text/speech using **Computer Vision + Deep Learning**.  
+**Tools:** Python, OpenCV, TensorFlow, Keras, CNN, NumPy, Pandas, TensorFlow Lite  
+
+---
+
+<h2 align="left">🛠 Skills:</h2>
+
+- **Back-End & Front-End Development:** .NET Core (6/7/8), REST APIs, EF Core, SQL Server, Repository Pattern, Clean Architecture, HTML5, CSS3, JS, Bootstrap, Razor Pages, MVC  
+- **Programming Languages:** C#, Python, Java (Basic)  
+- **Tools & Platforms:** Visual Studio, VS Code, Git, GitHub, Docker (Basics), Postman, Microsoft Azure (Basics)  
+
+---
+
+<h2 align="left">🏆 Awards & Achievements:</h2>
+
+- 🥉 **4th Place – Mega Project Competition**  
+  *Organized by the Ministry of Communications and Information Technology (MCIT)*  
+
+- 🥈 **2nd Place – Graduation Project Competition**  
+  *Organized by eYouth under the Digital Egypt Pioneers Initiative (DEPI)*  
 
 ---
 
@@ -54,5 +109,8 @@
   </a>
   <a href="https://www.linkedin.com/in/sama-alaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+g.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
